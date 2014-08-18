@@ -50,6 +50,7 @@ package com.objects
 		{
 			isDead = true;
 		   /*
+			resim eklemek icin istersen position da ekle
 			_requestDie = new URLRequest(diePicture);
 			_loaderDie.load(_requestDie);
 			addChild(_loaderDie);
